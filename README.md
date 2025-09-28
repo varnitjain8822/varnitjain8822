@@ -1,6 +1,6 @@
 # Hi, I'm Varnit Jain 👋
 
-🎓 **Engineering Student | Aspiring Web Developer **
+🎓 Engineering Student | Aspiring Web Developer 
 
 Welcome to my GitHub! I’m passionate about building impactful web applications and always eager to learn new technologies. My current focus is on mastering React, CSS Modules, and backend fundamentals.
 
